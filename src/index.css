@@ -1,0 +1,20 @@
+body {
+  margin: 0 auto;
+  padding: 0;
+  font-family: sans-serif;
+  width: 100%;
+}
+
+h1,h2,h3,h4,h5,h6,p,ul,li{
+  padding: 0px;
+  margin: 0px;
+}
+
+header{
+  border-bottom: solid 2px #cccccc;
+  margin: 10px 0px 10px 0px
+}
+
+header h1{
+  text-align: center
+}
